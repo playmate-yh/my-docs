@@ -1,4 +1,5 @@
 site_name: 我的技术文档
+site_url: https://playmate-yh.github.io/my-docs/
 theme:
   name: material
 nav:

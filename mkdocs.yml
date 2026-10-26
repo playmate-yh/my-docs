@@ -3,7 +3,7 @@ site_url: https://playmate-yh.github.io/my-docs/
 theme:
   name: material
 nav:
-  - 首页: index.md
-  - 关于: about.md
-  - 指南: guide.md
-  - API: api.md
+  - 首页: /my-docs/index.md
+  - 关于: /my-docs/about.md
+  - 指南: /my-docs/guide.md
+  - API: /my-docs/api.md
